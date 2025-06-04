@@ -90,7 +90,8 @@ CNN Layer 출력 데이터를 1차원 벡터로 변환하여 Fully Connected Lay
 ## **Simulation.ipynb**
 - 모델이 실제로 어떤 식으로 활용될 수 있는지 시뮬레이션
 
-<img src='simulation.png'>
+<img src='img/simulation.png'>
+<img src='img/simulation.gif'>
 
 # Model
 1. 단일 LSTM
@@ -99,6 +100,6 @@ CNN Layer 출력 데이터를 1차원 벡터로 변환하여 Fully Connected Lay
 
 # Result
 
-<img src='output.png'>
+<img src='img/output.png'>
 
 Epoch = 50으로 학습한 단일 LSTM 모델의 성능 가장 높음
